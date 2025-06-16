@@ -159,8 +159,6 @@ npm-debug.log*
 stylelintcache
 .cache/
 .sass-cache/
-postcss.config.js
-tailwind.config.js
 *.map
 *.lock
 package-lock.json
